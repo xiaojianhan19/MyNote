@@ -1,0 +1,3380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Collection>
+    <Id>C0000001</Id>
+    <Name>初音岛</Name>
+    <Category>少女校园</Category>
+    <Status>Complete</Status>
+    <Memo>对我来说，最有代表性的校园恋爱。</Memo>
+    <Name2>D.C.</Name2>
+    <Name3>D.C.～ダ・カーポ～</Name3>
+    <Level>7</Level>
+    <InputDate>2003-07-05T00:00:00</InputDate>
+    <ReleaseDate>2003-07-05T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>少女</string>
+      <string>校园</string>
+      <string>恋爱</string>
+    </Tags>
+    <Paragraph />
+    <Character>
+      <Character>
+        <Id>I0000001</Id>
+        <Index>1</Index>
+        <Name>白川小鳥</Name>
+        <Memo>最も好きなキャラの一人。優しい、切ない。</Memo>
+        <Date>2019-10-20T00:00:00</Date>
+        <Name2>白川小鳥</Name2>
+        <Name3>白川小鳥</Name3>
+      </Character>
+      <Character>
+        <Id>I0000002</Id>
+        <Index>2</Index>
+        <Name>鹭泽美咲</Name>
+        <Memo>隠れる恋。</Memo>
+        <Date>2019-10-20T00:00:00</Date>
+        <Name2>Sagisawa Misaki</Name2>
+        <Name3>さぎさわ みさき</Name3>
+      </Character>
+    </Character>
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000003</Id>
+    <Name>ToHeart2</Name>
+    <Category>少女校园</Category>
+    <Status>Complete</Status>
+    <Memo>校园恋爱经典02</Memo>
+    <Name2>ToHeart2</Name2>
+    <Name3>ToHeart2</Name3>
+    <Level>6</Level>
+    <InputDate>2005-10-03T00:00:00</InputDate>
+    <ReleaseDate>2005-10-03T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>少女</string>
+      <string>校园</string>
+      <string>恋爱</string>
+    </Tags>
+    <Paragraph />
+    <Character>
+      <Character>
+        <Id>I0000007</Id>
+        <Index>1</Index>
+        <Name>草壁優季</Name>
+        <Memo>红颜知己</Memo>
+        <Date>2019-10-23T00:00:00</Date>
+        <Name2>佐藤利奈</Name2>
+        <Name3 />
+      </Character>
+    </Character>
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000004</Id>
+    <Name>灌篮高手</Name>
+    <Category>竞技冒险</Category>
+    <Status>Complete</Status>
+    <Memo>童年的回忆，上大学了看着更激动。</Memo>
+    <Name2>SLUM DUNK</Name2>
+    <Name3>スラムダンク</Name3>
+    <Level>7</Level>
+    <InputDate>1993-10-16T00:00:00</InputDate>
+    <ReleaseDate>1993-10-16T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>经典</string>
+      <string>校园</string>
+      <string>竞技</string>
+    </Tags>
+    <Paragraph />
+    <Character>
+      <Character>
+        <Id>I0000008</Id>
+        <Index>1</Index>
+        <Name>流川枫</Name>
+        <Memo>或许是我想成为，但永远也成不了的形象。</Memo>
+        <Date>2019-10-23T00:00:00</Date>
+        <Name2>绿川光</Name2>
+        <Name3 />
+      </Character>
+    </Character>
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000005</Id>
+    <Name>足球小将</Name>
+    <Category>竞技冒险</Category>
+    <Status>Complete</Status>
+    <Memo>居然比灌篮高手早10年</Memo>
+    <Name2>Captain Tsubasa</Name2>
+    <Name3>キャプテン翼</Name3>
+    <Level>5</Level>
+    <InputDate>1983-10-13T00:00:00</InputDate>
+    <ReleaseDate>1983-10-13T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>经典</string>
+      <string>竞技</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000006</Id>
+    <Name>龙珠</Name>
+    <Category>竞技冒险</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2>DRAGON BALL</Name2>
+    <Name3>ドラゴンボール</Name3>
+    <Level>5</Level>
+    <InputDate>1986-02-26T00:00:00</InputDate>
+    <ReleaseDate>1986-02-26T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>经典</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000007</Id>
+    <Name>圣斗士星矢</Name>
+    <Category>竞技冒险</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2>Saint Seiya</Name2>
+    <Name3>聖闘士星矢</Name3>
+    <Level>4</Level>
+    <InputDate>1986-10-11T00:00:00</InputDate>
+    <ReleaseDate>1986-10-11T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>经典</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000008</Id>
+    <Name>浪客剑心</Name>
+    <Category>竞技冒险</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3>るろうに剣心</Name3>
+    <Level>5</Level>
+    <InputDate>1996-01-01T00:00:00</InputDate>
+    <ReleaseDate>1996-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>经典</string>
+      <string>格斗</string>
+      <string>历史</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000009</Id>
+    <Name>幽游白书</Name>
+    <Category>竞技冒险</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>1992-10-10T00:00:00</InputDate>
+    <ReleaseDate>1992-10-10T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>经典</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000010</Id>
+    <Name>乱马1/2</Name>
+    <Category>竞技冒险</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>1989-04-15T00:00:00</InputDate>
+    <ReleaseDate>1989-04-15T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000011</Id>
+    <Name>钢铁神兵</Name>
+    <Category>竞技冒险</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>1996-04-06T00:00:00</InputDate>
+    <ReleaseDate>1996-04-06T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>经典</string>
+      <string>格斗</string>
+      <string>使魔</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000012</Id>
+    <Name>剑勇传说</Name>
+    <Category>竞技冒险</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2>九龙珠</Name2>
+    <Name3>城市风云儿</Name3>
+    <Level>4</Level>
+    <InputDate>1993-04-09T00:00:00</InputDate>
+    <ReleaseDate>1993-04-09T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>经典</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000013</Id>
+    <Name>烈火之炎</Name>
+    <Category>竞技冒险</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>异能</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000014</Id>
+    <Name>hunter x hunter</Name>
+    <Category>竞技冒险</Category>
+    <Status>Miss</Status>
+    <Memo />
+    <Name2>hunter x hunter</Name2>
+    <Name3>hunter x hunter</Name3>
+    <Level>2</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>异能</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000015</Id>
+    <Name>数码宝贝</Name>
+    <Category>竞技冒险</Category>
+    <Status>Complete</Status>
+    <Memo>童年回忆啊,片头曲也是最有代表性的燃曲</Memo>
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>1999-03-07T00:00:00</InputDate>
+    <ReleaseDate>1999-03-07T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>经典</string>
+      <string>使魔</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000016</Id>
+    <Name>奥特曼</Name>
+    <Category>竞技冒险</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>经典</string>
+      <string>格斗</string>
+      <string>英雄</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000017</Id>
+    <Name>美少女战士</Name>
+    <Category>竞技冒险</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>经典</string>
+      <string>少女</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000018</Id>
+    <Name>天使领域</Name>
+    <Category>竞技冒险</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2>机动天使</Name2>
+    <Name3>機動天使エンジェリックレイヤー</Name3>
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>少女</string>
+      <string>竞技</string>
+      <string>使魔</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000019</Id>
+    <Name>四驱兄弟</Name>
+    <Category>竞技冒险</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>竞技</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000020</Id>
+    <Name>四驱小子</Name>
+    <Category>竞技冒险</Category>
+    <Status>Finished</Status>
+    <Memo>冲向地平线,就记得这句话</Memo>
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>竞技</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000021</Id>
+    <Name>宇宙的星路</Name>
+    <Category>竞技冒险</Category>
+    <Status>Complete</Status>
+    <Memo>最喜欢的作品之一啊,虽然似乎没人气.</Memo>
+    <Name2 />
+    <Name3 />
+    <Level>7</Level>
+    <InputDate>2003-01-01T00:00:00</InputDate>
+    <ReleaseDate>2003-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>少女</string>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>竞技</string>
+      <string>科幻</string>
+    </Tags>
+    <Paragraph />
+    <Character>
+      <Character>
+        <Id>I0000009</Id>
+        <Index>0</Index>
+        <Name>音山光太</Name>
+        <Memo />
+        <Date>2019-10-26T00:00:00</Date>
+        <Name2>Otoyama Kouta</Name2>
+        <Name3>音山光太</Name3>
+      </Character>
+    </Character>
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000022</Id>
+    <Name>头文字D</Name>
+    <Category>竞技冒险</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2>Initial D: First Stage</Name2>
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>1998-04-18T00:00:00</InputDate>
+    <ReleaseDate>1998-04-18T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>竞技</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000023</Id>
+    <Name>网球王子</Name>
+    <Category>竞技冒险</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>竞技</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000024</Id>
+    <Name>棒球英豪</Name>
+    <Category>竞技冒险</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>竞技</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000025</Id>
+    <Name>武器种族传说</Name>
+    <Category>竞技冒险</Category>
+    <Status>Miss</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>格斗</string>
+      <string>使魔</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000026</Id>
+    <Name>史上最强弟子兼一</Name>
+    <Category>竞技冒险</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000027</Id>
+    <Name>植木的法则</Name>
+    <Category>竞技冒险</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>1</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>竞技</string>
+      <string>游戏</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000028</Id>
+    <Name>恶魔奶爸</Name>
+    <Category>竞技冒险</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2>beelzebub</Name2>
+    <Name3>べるぜバブ</Name3>
+    <Level>4</Level>
+    <InputDate>2011-01-09T00:00:00</InputDate>
+    <ReleaseDate>2011-01-09T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character>
+      <Character>
+        <Id>I0000010</Id>
+        <Index>0</Index>
+        <Name>邦枝葵</Name>
+        <Memo />
+        <Date>2019-10-26T00:00:00</Date>
+        <Name2>Kunieda Aoi</Name2>
+        <Name3 />
+      </Character>
+    </Character>
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000029</Id>
+    <Name>一骑当千</Name>
+    <Category>竞技冒险</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>1</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000030</Id>
+    <Name>刀语</Name>
+    <Category>竞技冒险</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>格斗</string>
+      <string>历史</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000031</Id>
+    <Name>虫奉行</Name>
+    <Category>竞技冒险</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>格斗</string>
+      <string>历史</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000032</Id>
+    <Name>名侦探柯南</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2>Detective Conan</Name2>
+    <Name3>名探偵コナン</Name3>
+    <Level>7</Level>
+    <InputDate>1996-01-08T00:00:00</InputDate>
+    <ReleaseDate>1996-01-08T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>经典</string>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>竞技</string>
+      <string>侦探</string>
+      <string>英雄</string>
+      <string>文艺</string>
+      <string>都市</string>
+    </Tags>
+    <Paragraph />
+    <Character>
+      <Character>
+        <Id>I0000011</Id>
+        <Index>0</Index>
+        <Name>灰原哀</Name>
+        <Memo />
+        <Date>2019-10-26T00:00:00</Date>
+        <Name2>Haibara Ai</Name2>
+        <Name3 />
+      </Character>
+    </Character>
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000033</Id>
+    <Name>城市猎人</Name>
+    <Category>异能灵侦</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>侦探</string>
+      <string>都市</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000034</Id>
+    <Name>怪盗圣少女</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>少女</string>
+      <string>侦探</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000035</Id>
+    <Name>天使怪盗</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>英雄</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000036</Id>
+    <Name>二十面相少女</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3>二十面相の娘</Name3>
+    <Level>5</Level>
+    <InputDate>2008-04-12T00:00:00</InputDate>
+    <ReleaseDate>2008-04-12T00:00:00</ReleaseDate>
+    <Tags>
+      <string>少女</string>
+      <string>校园</string>
+      <string>侦探</string>
+      <string>历史</string>
+    </Tags>
+    <Paragraph />
+    <Character>
+      <Character>
+        <Id>I0000012</Id>
+        <Index>0</Index>
+        <Name>美甘千津子</Name>
+        <Memo />
+        <Date>2019-10-26T00:00:00</Date>
+        <Name2>Chizuko Mikamo</Name2>
+        <Name3>美甘千津子</Name3>
+      </Character>
+    </Character>
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000037</Id>
+    <Name>死亡笔记</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>游戏</string>
+      <string>侦探</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000038</Id>
+    <Name>Fate/stay night</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo>06年开始,到19年,火遍全球,算是多人构筑世界的经典吧.</Memo>
+    <Name2>Fate/stay night</Name2>
+    <Name3>Fate/stay night</Name3>
+    <Level>7</Level>
+    <InputDate>2006-01-06T00:00:00</InputDate>
+    <ReleaseDate>2006-01-06T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>游戏</string>
+      <string>异能</string>
+      <string>格斗</string>
+      <string>历史</string>
+      <string>使魔</string>
+      <string>英雄</string>
+      <string>都市</string>
+      <string>Fate系列</string>
+    </Tags>
+    <Paragraph />
+    <Character>
+      <Character>
+        <Id>I0000013</Id>
+        <Index>0</Index>
+        <Name>遠坂凛</Name>
+        <Memo />
+        <Date>2019-10-26T00:00:00</Date>
+        <Name2>Tousaka Rin</Name2>
+        <Name3>远坂凛</Name3>
+      </Character>
+      <Character>
+        <Id>I0000014</Id>
+        <Index>1</Index>
+        <Name>Saber</Name>
+        <Memo />
+        <Date>2019-10-26T00:00:00</Date>
+        <Name2>アルトリア・ペンドラゴン</Name2>
+        <Name3>阿尔托莉雅·潘德拉贡</Name3>
+      </Character>
+    </Character>
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000039</Id>
+    <Name>Fate/Zero</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2>Fate/Zero</Name2>
+    <Name3>Fate/Zero</Name3>
+    <Level>4</Level>
+    <InputDate>2006-12-29T00:00:00</InputDate>
+    <ReleaseDate>2006-12-29T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>游戏</string>
+      <string>异能</string>
+      <string>格斗</string>
+      <string>历史</string>
+      <string>使魔</string>
+      <string>都市</string>
+      <string>Fate系列</string>
+    </Tags>
+    <Paragraph />
+    <Character>
+      <Character>
+        <Id>I0000015</Id>
+        <Index>0</Index>
+        <Name>韦伯·维尔维特</Name>
+        <Memo />
+        <Date>2019-10-26T00:00:00</Date>
+        <Name2>ウェイバー・ベルベット</Name2>
+        <Name3>ロード・エルメロイⅡ世</Name3>
+      </Character>
+    </Character>
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000040</Id>
+    <Name>Fate/Apocrypha</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2>Fate/Apocrypha</Name2>
+    <Name3>Fate/Apocrypha</Name3>
+    <Level>5</Level>
+    <InputDate>2017-07-01T00:00:00</InputDate>
+    <ReleaseDate>2017-07-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>游戏</string>
+      <string>异能</string>
+      <string>战争</string>
+      <string>格斗</string>
+      <string>历史</string>
+      <string>使魔</string>
+      <string>都市</string>
+      <string>Fate系列</string>
+    </Tags>
+    <Paragraph />
+    <Character>
+      <Character>
+        <Id>I0000016</Id>
+        <Index>0</Index>
+        <Name>考列斯·弗尔维吉</Name>
+        <Memo />
+        <Date>2019-10-26T00:00:00</Date>
+        <Name2 />
+        <Name3 />
+      </Character>
+    </Character>
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000041</Id>
+    <Name>埃尔梅罗二世事件簿</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo>君主·埃尔梅罗二世事件簿 -魔眼收集列车 Grace note-</Memo>
+    <Name2>魔眼收集列车 Grace note-</Name2>
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>2019-07-06T00:00:00</InputDate>
+    <ReleaseDate>2019-07-06T00:00:00</ReleaseDate>
+    <Tags>
+      <string>侦探</string>
+      <string>异能</string>
+      <string>使魔</string>
+      <string>都市</string>
+      <string>Fate系列</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000042</Id>
+    <Name>月姬</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>异能</string>
+      <string>Fate系列</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000043</Id>
+    <Name>空之境界</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>异能</string>
+      <string>Fate系列</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000044</Id>
+    <Name>魔卡少女樱</Name>
+    <Category>异能灵侦</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>经典</string>
+      <string>少女</string>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>英雄</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000045</Id>
+    <Name>魔法少女奈叶</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>少女</string>
+      <string>异能</string>
+      <string>英雄</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000046</Id>
+    <Name>钢之炼金术师</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>2003-10-04T00:00:00</InputDate>
+    <ReleaseDate>2003-10-04T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>异能</string>
+      <string>格斗</string>
+      <string>旅行</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000047</Id>
+    <Name>舞-HIME</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>2004-09-30T00:00:00</InputDate>
+    <ReleaseDate>2004-09-30T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>少女</string>
+      <string>校园</string>
+      <string>异能</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000048</Id>
+    <Name>舞-乙HIME</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>2005-10-06T00:00:00</InputDate>
+    <ReleaseDate>2005-10-06T00:00:00</ReleaseDate>
+    <Tags>
+      <string>少女</string>
+      <string>异能</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000049</Id>
+    <Name>灼眼的夏娜</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>2005-10-05T00:00:00</InputDate>
+    <ReleaseDate>2005-10-05T00:00:00</ReleaseDate>
+    <Tags>
+      <string>少女</string>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>异能</string>
+      <string>格斗</string>
+      <string>英雄</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000050</Id>
+    <Name>黑之契约者</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>2007-04-06T00:00:00</InputDate>
+    <ReleaseDate>2007-04-06T00:00:00</ReleaseDate>
+    <Tags>
+      <string>异能</string>
+      <string>使魔</string>
+      <string>英雄</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000051</Id>
+    <Name>风之圣痕</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo>可惜作者挂了,永远成为过去了啊.</Memo>
+    <Name2 />
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>少女</string>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>异能</string>
+      <string>都市</string>
+    </Tags>
+    <Paragraph />
+    <Character>
+      <Character>
+        <Id>I0000017</Id>
+        <Index>0</Index>
+        <Name>
+八神和麻</Name>
+        <Memo />
+        <Date>2019-10-26T00:00:00</Date>
+        <Name2 />
+        <Name3 />
+      </Character>
+    </Character>
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000052</Id>
+    <Name>魔法禁书目录</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>2008-10-01T00:00:00</InputDate>
+    <ReleaseDate>2008-10-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>异能</string>
+      <string>英雄</string>
+      <string>都市</string>
+      <string>后宫</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000053</Id>
+    <Name>科学的超电磁炮</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2>とある科学の超電磁砲</Name2>
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>2009-10-02T00:00:00</InputDate>
+    <ReleaseDate>2009-10-02T00:00:00</ReleaseDate>
+    <Tags>
+      <string>少女</string>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>异能</string>
+      <string>英雄</string>
+      <string>都市</string>
+    </Tags>
+    <Paragraph />
+    <Character>
+      <Character>
+        <Id>I0000018</Id>
+        <Index>0</Index>
+        <Name>御坂美琴</Name>
+        <Memo />
+        <Date>2019-10-26T00:00:00</Date>
+        <Name2 />
+        <Name3>御坂美琴</Name3>
+      </Character>
+    </Character>
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000054</Id>
+    <Name>噬血狂袭</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3>ストライク・ザ・ブラッド</Name3>
+    <Level>4</Level>
+    <InputDate>2013-10-04T00:00:00</InputDate>
+    <ReleaseDate>2013-10-04T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>异能</string>
+      <string>都市</string>
+      <string>后宫</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000055</Id>
+    <Name>驱魔少年</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo>有生之年啊</Memo>
+    <Name2>D.Gray-man</Name2>
+    <Name3 />
+    <Level>6</Level>
+    <InputDate>2006-10-03T00:00:00</InputDate>
+    <ReleaseDate>2006-10-03T00:00:00</ReleaseDate>
+    <Tags>
+      <string>侦探</string>
+      <string>异能</string>
+      <string>末世</string>
+      <string>格斗</string>
+      <string>旅行</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000056</Id>
+    <Name>潘多拉之心</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2>Pandora Hearts</Name2>
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>2009-04-02T00:00:00</InputDate>
+    <ReleaseDate>2009-04-02T00:00:00</ReleaseDate>
+    <Tags>
+      <string>侦探</string>
+      <string>灵鬼</string>
+      <string>旅行</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000057</Id>
+    <Name>无头骑士异闻录</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2>デュラララ!!</Name2>
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>2004-04-10T00:00:00</InputDate>
+    <ReleaseDate>2004-04-10T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>侦探</string>
+      <string>都市</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000058</Id>
+    <Name>心灵侦探八云</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>侦探</string>
+      <string>灵鬼</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000059</Id>
+    <Name>奇幻贵公子</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>2006-10-03T00:00:00</InputDate>
+    <ReleaseDate>2006-10-03T00:00:00</ReleaseDate>
+    <Tags>
+      <string>少女</string>
+      <string>侦探</string>
+      <string>灵鬼</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000060</Id>
+    <Name>神的记事本</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>2011-09-28T00:00:00</InputDate>
+    <ReleaseDate>2011-09-28T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>侦探</string>
+      <string>都市</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000061</Id>
+    <Name>冰菓</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>6</Level>
+    <InputDate>2012-04-22T00:00:00</InputDate>
+    <ReleaseDate>2012-04-22T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>侦探</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000062</Id>
+    <Name>虫师</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2>Mushishi</Name2>
+    <Name3>蟲師</Name3>
+    <Level>6</Level>
+    <InputDate>2005-10-23T00:00:00</InputDate>
+    <ReleaseDate>2005-10-23T00:00:00</ReleaseDate>
+    <Tags>
+      <string>灵鬼</string>
+      <string>旅行</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000063</Id>
+    <Name>滑头鬼之孙</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3>ぬらりひょんの孫</Name3>
+    <Level>4</Level>
+    <InputDate>2010-07-05T00:00:00</InputDate>
+    <ReleaseDate>2010-07-05T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>灵鬼</string>
+      <string>格斗</string>
+      <string>英雄</string>
+      <string>都市</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000064</Id>
+    <Name>结界师</Name>
+    <Category>异能灵侦</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>灵鬼</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000065</Id>
+    <Name>化物语</Name>
+    <Category>异能灵侦</Category>
+    <Status>Miss</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>灵鬼</string>
+      <string>后宫</string>
+      <string>思维</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000066</Id>
+    <Name>全部成为F</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>侦探</string>
+      <string>思维</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000067</Id>
+    <Name>吸血鬼骑士</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2>Vampire Knight</Name2>
+    <Name3>ヴァンパイア骑士</Name3>
+    <Level>4</Level>
+    <InputDate>2008-04-07T00:00:00</InputDate>
+    <ReleaseDate>2008-04-07T00:00:00</ReleaseDate>
+    <Tags>
+      <string>少女</string>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>灵鬼</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000068</Id>
+    <Name>魔法使借贷公司</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>1</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>侦探</string>
+      <string>异能</string>
+      <string>使魔</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000069</Id>
+    <Name>蔷薇少女</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>少女</string>
+      <string>恋爱</string>
+      <string>异能</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000070</Id>
+    <Name>死后文</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>少女</string>
+      <string>灵鬼</string>
+      <string>思维</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000071</Id>
+    <Name>妖精的旋律</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>1</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>少女</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000072</Id>
+    <Name>红</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>侦探</string>
+      <string>灵鬼</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000073</Id>
+    <Name>Another</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>游戏</string>
+      <string>灵鬼</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000074</Id>
+    <Name>绝园的暴风雨</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>6</Level>
+    <InputDate>2010-02-22T00:00:00</InputDate>
+    <ReleaseDate>2010-02-22T00:00:00</ReleaseDate>
+    <Tags>
+      <string>恋爱</string>
+      <string>侦探</string>
+      <string>异能</string>
+      <string>旅行</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000075</Id>
+    <Name>境界的彼方</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>2013-10-02T00:00:00</InputDate>
+    <ReleaseDate>2013-10-02T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>异能</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000076</Id>
+    <Name>漆黑的子弹</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>2014-04-08T00:00:00</InputDate>
+    <ReleaseDate>2014-04-08T00:00:00</ReleaseDate>
+    <Tags>
+      <string>末世</string>
+      <string>格斗</string>
+      <string>使魔</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000077</Id>
+    <Name>极黑的布伦希尔德</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>灵鬼</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000078</Id>
+    <Name>斩赤红之瞳</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3>アカメが斬る！</Name3>
+    <Level>4</Level>
+    <InputDate>2014-07-06T00:00:00</InputDate>
+    <ReleaseDate>2014-07-06T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000079</Id>
+    <Name>七大罪</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2>The Seven Deadly Sins</Name2>
+    <Name3>七つの大罪</Name3>
+    <Level>4</Level>
+    <InputDate>2014-10-05T00:00:00</InputDate>
+    <ReleaseDate>2014-10-05T00:00:00</ReleaseDate>
+    <Tags>
+      <string>搞笑</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000080</Id>
+    <Name>六花的勇者</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>2015-07-04T00:00:00</InputDate>
+    <ReleaseDate>2015-07-04T00:00:00</ReleaseDate>
+    <Tags>
+      <string>侦探</string>
+      <string>异能</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000081</Id>
+    <Name>终结的炽天使</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>2015-04-04T00:00:00</InputDate>
+    <ReleaseDate>2015-04-04T00:00:00</ReleaseDate>
+    <Tags>
+      <string>异能</string>
+      <string>末世</string>
+      <string>格斗</string>
+      <string>旅行</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000082</Id>
+    <Name>精灵使的剑舞</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>2014-07-14T00:00:00</InputDate>
+    <ReleaseDate>2014-07-14T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>异能</string>
+      <string>格斗</string>
+      <string>后宫</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000083</Id>
+    <Name>零之使魔</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>2006-07-02T00:00:00</InputDate>
+    <ReleaseDate>2006-07-02T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>异能</string>
+      <string>使魔</string>
+      <string>后宫</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000084</Id>
+    <Name>绯弹的亚里亚</Name>
+    <Category>异能灵侦</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>2011-04-15T00:00:00</InputDate>
+    <ReleaseDate>2011-04-15T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>格斗</string>
+      <string>后宫</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000085</Id>
+    <Name>11eyes -罪与罚与赎的少女</Name>
+    <Category>异能灵侦</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>2009-10-06T00:00:00</InputDate>
+    <ReleaseDate>2009-10-06T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>异能</string>
+      <string>后宫</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000086</Id>
+    <Name>神曲奏界</Name>
+    <Category>异能灵侦</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>1</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>恋爱</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000087</Id>
+    <Name>罪恶王冠</Name>
+    <Category>异能灵侦</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>末世</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000088</Id>
+    <Name>K</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>2012-10-04T00:00:00</InputDate>
+    <ReleaseDate>2012-10-04T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>侦探</string>
+      <string>格斗</string>
+      <string>都市</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000089</Id>
+    <Name>传说的勇者的传说</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo>想看后续，只有找小说了。</Memo>
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>2010-07-01T00:00:00</InputDate>
+    <ReleaseDate>2010-07-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>异能</string>
+      <string>战争</string>
+      <string>旅行</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000090</Id>
+    <Name>暗夜魔法使</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>异能</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000091</Id>
+    <Name>浜虎</Name>
+    <Category>异能灵侦</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>1</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>异能</string>
+      <string>都市</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000092</Id>
+    <Name>91Days</Name>
+    <Category>异能灵侦</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>侦探</string>
+      <string>都市</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000093</Id>
+    <Name>永生之酒</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>侦探</string>
+      <string>都市</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000094</Id>
+    <Name>苍色骑士</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo>记不得剧情了</Memo>
+    <Name2>Blassreiter</Name2>
+    <Name3 />
+    <Level>1</Level>
+    <InputDate>2008-04-05T00:00:00</InputDate>
+    <ReleaseDate>2008-04-05T00:00:00</ReleaseDate>
+    <Tags>
+      <string>异能</string>
+      <string>英雄</string>
+      <string>都市</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000095</Id>
+    <Name>弹丸论破</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo>希望峰学园3</Memo>
+    <Name2>弹丸论破</Name2>
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>2013-07-05T00:00:00</InputDate>
+    <ReleaseDate>2013-07-05T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>游戏</string>
+      <string>侦探</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000096</Id>
+    <Name>信蜂</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>旅行</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000097</Id>
+    <Name>RWBY</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2>RWBY</Name2>
+    <Name3>RWBY</Name3>
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>少女</string>
+      <string>校园</string>
+      <string>异能</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000098</Id>
+    <Name>刀使的巫女</Name>
+    <Category>异能灵侦</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3>とじのみこ</Name3>
+    <Level>3</Level>
+    <InputDate>2018-01-05T00:00:00</InputDate>
+    <ReleaseDate>2018-01-05T00:00:00</ReleaseDate>
+    <Tags>
+      <string>少女</string>
+      <string>异能</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000099</Id>
+    <Name>机动战舰Nadesico</Name>
+    <Category>战争异界</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>1996-10-01T00:00:00</InputDate>
+    <ReleaseDate>1996-10-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>童年</string>
+      <string>战争</string>
+      <string>机战</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000100</Id>
+    <Name>新世纪福音战士</Name>
+    <Category>战争异界</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2>NEON GENESIS EVANGELION</Name2>
+    <Name3>新世紀エヴァンゲリオン</Name3>
+    <Level>5</Level>
+    <InputDate>1995-10-04T00:00:00</InputDate>
+    <ReleaseDate>1995-10-04T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>校园</string>
+      <string>末世</string>
+      <string>思维</string>
+      <string>机战</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000101</Id>
+    <Name>Gundam W</Name>
+    <Category>战争异界</Category>
+    <Status>Complete</Status>
+    <Memo>新机动战记高达W</Memo>
+    <Name2 />
+    <Name3 />
+    <Level>6</Level>
+    <InputDate>1995-04-07T00:00:00</InputDate>
+    <ReleaseDate>1995-04-07T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>战争</string>
+      <string>机战</string>
+      <string>Gundam系列</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000102</Id>
+    <Name>Gundam X</Name>
+    <Category>战争异界</Category>
+    <Status>Complete</Status>
+    <Memo>机动新世纪高达X</Memo>
+    <Name2 />
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>1996-04-05T00:00:00</InputDate>
+    <ReleaseDate>1996-04-05T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>机战</string>
+      <string>Gundam系列</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000103</Id>
+    <Name>Gundam G</Name>
+    <Category>战争异界</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>竞技</string>
+      <string>格斗</string>
+      <string>机战</string>
+      <string>Gundam系列</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000104</Id>
+    <Name>Gundam Seed</Name>
+    <Category>战争异界</Category>
+    <Status>Complete</Status>
+    <Memo>Gundam Seed，Gundam Seed Destiny,
+最喜欢的作品，却好像种类很单一。在回忆中趋于完美。</Memo>
+    <Name2>Gundam Seed</Name2>
+    <Name3>Gundam Seed</Name3>
+    <Level>7</Level>
+    <InputDate>2002-10-05T00:00:00</InputDate>
+    <ReleaseDate>2002-10-05T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>战争</string>
+      <string>机战</string>
+      <string>Gundam系列</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000105</Id>
+    <Name>Gundam 0079</Name>
+    <Category>战争异界</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>1979-01-01T00:00:00</InputDate>
+    <ReleaseDate>1979-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>战争</string>
+      <string>机战</string>
+      <string>Gundam系列</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000106</Id>
+    <Name>Gundam Unicon</Name>
+    <Category>战争异界</Category>
+    <Status>GiveUp</Status>
+    <Memo>没看下去啊，从seed完结后。</Memo>
+    <Name2 />
+    <Name3 />
+    <Level>2</Level>
+    <InputDate>2010-02-20T00:00:00</InputDate>
+    <ReleaseDate>2010-02-20T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>机战</string>
+      <string>Gundam系列</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000107</Id>
+    <Name>苍穹的法芙娜</Name>
+    <Category>战争异界</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3>苍穹のファフナー</Name3>
+    <Level>1</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>机战</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000108</Id>
+    <Name>银色的奥林西斯</Name>
+    <Category>战争异界</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>机战</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000109</Id>
+    <Name>英雄时代</Name>
+    <Category>战争异界</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>英雄</string>
+      <string>科幻</string>
+      <string>机战</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000110</Id>
+    <Name>传颂之物</Name>
+    <Category>战争异界</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3>うたわれるもの</Name3>
+    <Level>6</Level>
+    <InputDate>2006-04-03T00:00:00</InputDate>
+    <ReleaseDate>2006-04-03T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>恋爱</string>
+      <string>战争</string>
+      <string>异界</string>
+      <string>格斗</string>
+      <string>后宫</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000111</Id>
+    <Name>提亚拉之泪</Name>
+    <Category>战争异界</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2>Tears to Tiara</Name2>
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>战争</string>
+      <string>异界</string>
+      <string>格斗</string>
+      <string>后宫</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000112</Id>
+    <Name>叛逆的鲁鲁修</Name>
+    <Category>战争异界</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>2006-10-05T00:00:00</InputDate>
+    <ReleaseDate>2006-10-05T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>战争</string>
+      <string>机战</string>
+      <string>权谋</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000113</Id>
+    <Name>苍蓝钢铁的琶音</Name>
+    <Category>战争异界</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>2013-10-07T00:00:00</InputDate>
+    <ReleaseDate>2013-10-07T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>娘化</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000114</Id>
+    <Name>钢壳都市雷吉欧斯</Name>
+    <Category>战争异界</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>2009-01-07T00:00:00</InputDate>
+    <ReleaseDate>2009-01-07T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>末世</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000115</Id>
+    <Name>战场女武神</Name>
+    <Category>战争异界</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>2009-04-04T00:00:00</InputDate>
+    <ReleaseDate>2009-04-04T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>战争</string>
+      <string>英雄</string>
+      <string>女主</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000116</Id>
+    <Name>三国演义</Name>
+    <Category>Classic</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>7</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>战争</string>
+      <string>历史</string>
+      <string>权谋</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000117</Id>
+    <Name>魔法学徒</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>剑与魔法</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000118</Id>
+    <Name>佣兵天下</Name>
+    <Category>Novel</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>剑与魔法</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000119</Id>
+    <Name>微酸学园</Name>
+    <Category>Novel</Category>
+    <Status>Miss</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>异能</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000120</Id>
+    <Name>光之子</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>剑与魔法</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000121</Id>
+    <Name>飞云星志</Name>
+    <Category>Novel</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>6</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>星界</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000122</Id>
+    <Name>小兵传奇</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>星界</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000123</Id>
+    <Name>星际破坏神</Name>
+    <Category>Novel</Category>
+    <Status>Miss</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>1</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>星界</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000124</Id>
+    <Name>飘渺之旅</Name>
+    <Category>Novel</Category>
+    <Status>Miss</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>6</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>旅行</string>
+      <string>修真</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000125</Id>
+    <Name>诛仙</Name>
+    <Category>Novel</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>7</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>仙缘</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000126</Id>
+    <Name>尘缘</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>仙缘</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000127</Id>
+    <Name>天醒之路</Name>
+    <Category>Novel</Category>
+    <Status>Current</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>6</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>异能</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000128</Id>
+    <Name>汉末卫公子</Name>
+    <Category>Novel</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>6</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>历史</string>
+      <string>权谋</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000129</Id>
+    <Name>民国投机者</Name>
+    <Category>Novel</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>6</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>历史</string>
+      <string>权谋</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000130</Id>
+    <Name>回到明朝当王爷</Name>
+    <Category>Novel</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>6</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>历史</string>
+      <string>权谋</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000131</Id>
+    <Name>步步生莲</Name>
+    <Category>Novel</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>历史</string>
+      <string>权谋</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000132</Id>
+    <Name>锦衣夜行</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>历史</string>
+      <string>权谋</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000133</Id>
+    <Name>夜天子</Name>
+    <Category>Novel</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>历史</string>
+      <string>权谋</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000134</Id>
+    <Name>醉枕江山</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>历史</string>
+      <string>权谋</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000135</Id>
+    <Name>赘婿</Name>
+    <Category>Novel</Category>
+    <Status>Current</Status>
+    <Memo>最合我口味的yy小说，写了多少年了啊。</Memo>
+    <Name2 />
+    <Name3 />
+    <Level>7</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>经典</string>
+      <string>恋爱</string>
+      <string>战争</string>
+      <string>历史</string>
+      <string>权谋</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000136</Id>
+    <Name>霸宋西门庆</Name>
+    <Category>Novel</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>历史</string>
+      <string>权谋</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000137</Id>
+    <Name>唐砖</Name>
+    <Category>Novel</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>历史</string>
+      <string>权谋</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000138</Id>
+    <Name>农夫三国</Name>
+    <Category>Novel</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>战争</string>
+      <string>历史</string>
+      <string>权谋</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000139</Id>
+    <Name>多情剑客无情剑</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo>不知道为什么喜欢了，这个好尴尬。</Memo>
+    <Name2 />
+    <Name3 />
+    <Level>6</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000140</Id>
+    <Name>绝代双骄</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000141</Id>
+    <Name>楚留香传奇</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000142</Id>
+    <Name>陆小凤传奇</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000143</Id>
+    <Name>名剑风流</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000144</Id>
+    <Name>天龙八部</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo>飞雪连天射白鹿，笑书神侠倚碧鸳</Memo>
+    <Name2 />
+    <Name3 />
+    <Level>6</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>历史</string>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000145</Id>
+    <Name>连城诀</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000146</Id>
+    <Name>射雕英雄传</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000147</Id>
+    <Name>鹿鼎记</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000148</Id>
+    <Name>笑傲江湖</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000149</Id>
+    <Name>神雕侠侣</Name>
+    <Category>Novel</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000150</Id>
+    <Name>侠客行</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000151</Id>
+    <Name>倚天屠龙记</Name>
+    <Category>Novel</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000152</Id>
+    <Name>四大名捕</Name>
+    <Category>Novel</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>5</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000153</Id>
+    <Name>大唐双龙传</Name>
+    <Category>Novel</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000154</Id>
+    <Name>寻秦记</Name>
+    <Category>Novel</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>武侠</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000155</Id>
+    <Name>空速星痕</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo>完全忘记了，当初第二喜欢的小说吧。</Memo>
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>异能</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000156</Id>
+    <Name>天魔神谭</Name>
+    <Category>Novel</Category>
+    <Status>GiveUp</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>异能</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000157</Id>
+    <Name>至尊无赖</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>异能</string>
+      <string>格斗</string>
+      <string>都市</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000158</Id>
+    <Name>斗徒</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>3</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>游戏</string>
+      <string>异能</string>
+      <string>格斗</string>
+      <string>都市</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000159</Id>
+    <Name>斗破苍穹</Name>
+    <Category>Novel</Category>
+    <Status>GiveUp</Status>
+    <Memo>太小白了，太长了，第二次决定放弃了，不过总是还在想着。</Memo>
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>异能</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000160</Id>
+    <Name>贼之法师</Name>
+    <Category>Novel</Category>
+    <Status>GiveUp</Status>
+    <Memo>一直没看，大哥介绍的</Memo>
+    <Name2 />
+    <Name3 />
+    <Level>1</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>剑与魔法</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000161</Id>
+    <Name>永夜君王</Name>
+    <Category>Novel</Category>
+    <Status>Finished</Status>
+    <Memo>貌似是第一部追完的小说。</Memo>
+    <Name2 />
+    <Name3 />
+    <Level>4</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>异能</string>
+      <string>战争</string>
+      <string>格斗</string>
+    </Tags>
+    <Paragraph />
+    <Character />
+    <Setting />
+  </Collection>
+  <Collection>
+    <Id>C0000162</Id>
+    <Name>四叶游戏</Name>
+    <Category>竞技冒险</Category>
+    <Status>Complete</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>6</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>竞技</string>
+    </Tags>
+    <Paragraph />
+    <Character>
+      <Character>
+        <Id>I0000019</Id>
+        <Index>0</Index>
+        <Name>滝川茜</Name>
+        <Memo>滝川茜/月島若葉</Memo>
+        <Date>2019-10-27T00:00:00</Date>
+        <Name2 />
+        <Name3 />
+      </Character>
+    </Character>
+    <Setting />
+  </Collection>
+</ArrayOfCollection>

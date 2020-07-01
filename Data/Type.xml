@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Type>
+    <Items>
+      <string>童年</string>
+      <string>经典</string>
+      <string>少女</string>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>搞笑</string>
+      <string>竞技</string>
+      <string>游戏</string>
+      <string>侦探</string>
+      <string>灵鬼</string>
+      <string>异能</string>
+      <string>末世</string>
+      <string>战争</string>
+      <string>异界</string>
+      <string>勇者</string>
+      <string>格斗</string>
+      <string>历史</string>
+      <string>使魔</string>
+      <string>英雄</string>
+      <string>科幻</string>
+      <string>文艺</string>
+      <string>都市</string>
+      <string>Fate系列</string>
+      <string>旅行</string>
+      <string>后宫</string>
+      <string>思维</string>
+      <string>机战</string>
+      <string>Gundam系列</string>
+      <string>权谋</string>
+      <string>娘化</string>
+      <string>女主</string>
+      <string>剑与魔法</string>
+      <string>星界</string>
+      <string>仙缘</string>
+      <string>修真</string>
+      <string>武侠</string>
+    </Items>
+    <Name>CollectionTag</Name>
+  </Type>
+</ArrayOfType>

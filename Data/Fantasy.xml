@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Collection>
+    <Id>C0000002</Id>
+    <Name>城市恋曲</Name>
+    <Category>城市恋曲</Category>
+    <Status>OnProcess</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Level>7</Level>
+    <InputDate>0001-01-01T00:00:00</InputDate>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+    <Tags>
+      <string>校园</string>
+      <string>恋爱</string>
+      <string>侦探</string>
+      <string>灵鬼</string>
+      <string>异能</string>
+      <string>末世</string>
+      <string>战争</string>
+    </Tags>
+    <Paragraph>
+      <CollectionItem>
+        <Id>I0000004</Id>
+        <Index>100</Index>
+        <Name>恶魔的诅咒</Name>
+        <Memo>第一卷开端</Memo>
+        <Date>2019-10-21T00:00:00</Date>
+      </CollectionItem>
+    </Paragraph>
+    <Character>
+      <Character>
+        <Id>I0000006</Id>
+        <Index>1</Index>
+        <Name>华零</Name>
+        <Memo />
+        <Date>2019-10-21T00:00:00</Date>
+        <Name2>杀手零号</Name2>
+        <Name3>魔眼之主</Name3>
+      </Character>
+    </Character>
+    <Setting />
+  </Collection>
+</ArrayOfCollection>

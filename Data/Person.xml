@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Id>P0000001</Id>
+    <Name>肖智华</Name>
+    <Category>Family</Category>
+    <Status>Close</Status>
+    <Memo>兄弟，最亲近而相似的，然而，我总需要独立了吧。</Memo>
+    <Name2>大哥</Name2>
+    <Name3 />
+    <Address>18623332478</Address>
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000002</Id>
+    <Name>谢显容</Name>
+    <Category>Family</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>妈</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000003</Id>
+    <Name>肖坤科</Name>
+    <Category>Family</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>爸</Name2>
+    <Name3 />
+    <Address>13500306378</Address>
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000004</Id>
+    <Name>肖体松</Name>
+    <Category>Family</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>弟弟</Name2>
+    <Name3 />
+    <Address>微信</Address>
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000005</Id>
+    <Name>蒋禄红</Name>
+    <Category>Family</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>姐姐</Name2>
+    <Name3 />
+    <Address>1**78788192</Address>
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000006</Id>
+    <Name>萧皓然</Name>
+    <Category>Family</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>侄儿</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000007</Id>
+    <Name>蔡天玉</Name>
+    <Category>Family</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>婆婆</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000008</Id>
+    <Name>肖月</Name>
+    <Category>FatherSide</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>二哥</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000009</Id>
+    <Name>肖光</Name>
+    <Category>FatherSide</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>三哥</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000010</Id>
+    <Name>肖坤财</Name>
+    <Category>FatherSide</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>二爷</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000011</Id>
+    <Name>二娘</Name>
+    <Category>FatherSide</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>二娘</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000012</Id>
+    <Name>蒋思源</Name>
+    <Category>FatherSide</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>表哥</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000013</Id>
+    <Name>肖坤慧</Name>
+    <Category>FatherSide</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>三嬢</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000014</Id>
+    <Name>肖影</Name>
+    <Category>FatherSide</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>堂妹</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000015</Id>
+    <Name>肖坤杰</Name>
+    <Category>FatherSide</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>五爷</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000016</Id>
+    <Name>五娘</Name>
+    <Category>FatherSide</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>五娘</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000017</Id>
+    <Name>肖晨晨</Name>
+    <Category>FatherSide</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>堂妹</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000018</Id>
+    <Name>肖坤胜</Name>
+    <Category>FatherSide</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>幺幺</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000019</Id>
+    <Name>谭冽冽</Name>
+    <Category>FatherSide</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>幺妈</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000020</Id>
+    <Name>肖诗言</Name>
+    <Category>FatherSide</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>堂妹</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000021</Id>
+    <Name>肖X</Name>
+    <Category>FatherSide</Category>
+    <Status>Close</Status>
+    <Memo>都快两岁了吧，还不知道名字。三哥家的小子也是，总记不住。该记下来的。</Memo>
+    <Name2>堂弟</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-10-19T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000023</Id>
+    <Name>岡南佑樹</Name>
+    <Category>青年部</Category>
+    <Status>Far</Status>
+    <Memo />
+    <Name2>部長</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-02T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000024</Id>
+    <Name>室井一起</Name>
+    <Category>青年部</Category>
+    <Status>Close</Status>
+    <Memo>最初の練成会。私を青年部に繋げた人。
+</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-02T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000025</Id>
+    <Name>江連孝文</Name>
+    <Category>青年部</Category>
+    <Status>Close</Status>
+    <Memo>笑顔と錬成の掛け声、最初の錬成のサブリーダー。</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-02T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000026</Id>
+    <Name>石原勲武</Name>
+    <Category>青年部</Category>
+    <Status>Close</Status>
+    <Memo>ずっと年下なのに、全く敵わないリーダー。
+</Memo>
+    <Name2>学生部長</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-02T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000027</Id>
+    <Name>星克成</Name>
+    <Category>青年部</Category>
+    <Status>Close</Status>
+    <Memo>仕事も青年部行事も、しっかりやっている人で、年下と全く見えない。</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-02T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000028</Id>
+    <Name>栗原大樹</Name>
+    <Category>青年部</Category>
+    <Status>Close</Status>
+    <Memo>一番世話になった人。</Memo>
+    <Name2>本部職員</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-02T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000029</Id>
+    <Name>加藤大輝</Name>
+    <Category>青年部</Category>
+    <Status>Close</Status>
+    <Memo>色々相談できて、真面目で優しい。</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-02T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000030</Id>
+    <Name>志賀洸介</Name>
+    <Category>青年部</Category>
+    <Status>Close</Status>
+    <Memo>真面目な教師ですが、サバイバルなどいろいろ挑戦した。
+</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-02T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000031</Id>
+    <Name>山下一成</Name>
+    <Category>青年部</Category>
+    <Status>Close</Status>
+    <Memo>プログラマーの先輩で、最初に声を掛けてもらいました。</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-02T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000032</Id>
+    <Name>桑辉</Name>
+    <Category>Elife</Category>
+    <Status>Far</Status>
+    <Memo>算是给我机会来日本的恩人呢,可惜待人处事不是很圆滑,开公司太艰难了.
+</Memo>
+    <Name2>社长</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-04T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000033</Id>
+    <Name>金莎</Name>
+    <Category>Elife</Category>
+    <Status>Far</Status>
+    <Memo>虽然性格上不能说喜欢,但那两年确实有许多事情都是她帮我办的,所以挺纠结的,到底算不算自己人呢?</Memo>
+    <Name2>业务</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-04T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000034</Id>
+    <Name>童力</Name>
+    <Category>Elife</Category>
+    <Status>Far</Status>
+    <Memo>第一个室友,一起带了大半年.待机太长,走了.</Memo>
+    <Name2>室友</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-04T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000035</Id>
+    <Name>杨罡</Name>
+    <Category>Elife</Category>
+    <Status>Far</Status>
+    <Memo>一起呆了半年吧,现在还有联系的,或许是唯一一个算朋友的人.</Memo>
+    <Name2>室友</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-04T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000036</Id>
+    <Name>王乃鹏</Name>
+    <Category>Elife</Category>
+    <Status>Far</Status>
+    <Memo>第三任室友?</Memo>
+    <Name2>室友</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-04T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000037</Id>
+    <Name>赫飞龙</Name>
+    <Category>Elife</Category>
+    <Status>Far</Status>
+    <Memo>96年的了,开始感觉自己年龄大了.</Memo>
+    <Name2>室友</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-04T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000038</Id>
+    <Name>李致国</Name>
+    <Category>Elife</Category>
+    <Status>Far</Status>
+    <Memo>很会做菜,很会生活.感觉他们俩.</Memo>
+    <Name2>室友</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-04T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000039</Id>
+    <Name>刘辉</Name>
+    <Category>Elife</Category>
+    <Status>Far</Status>
+    <Memo />
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000040</Id>
+    <Name>余志力</Name>
+    <Category>Elife</Category>
+    <Status>Miss</Status>
+    <Memo>我还算教过他一点儿吧？</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000041</Id>
+    <Name>张立欣</Name>
+    <Category>Elife</Category>
+    <Status>Miss</Status>
+    <Memo>金姐走后很多事情就是她负责了，跟我基本同龄，算是朋友吧。</Memo>
+    <Name2>业务</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000042</Id>
+    <Name>宋兆庆</Name>
+    <Category>Elife</Category>
+    <Status>Far</Status>
+    <Memo>住在高岛平，电车上还能见到。跟宋夫人一起过年包饺子，玩狼人杀。</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000043</Id>
+    <Name>刘扬</Name>
+    <Category>Elife</Category>
+    <Status>Far</Status>
+    <Memo>我去机场接的，本以为是后辈，结果比我大。没相处几天就搬走了。</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000044</Id>
+    <Name>陈静</Name>
+    <Category>Elife</Category>
+    <Status>Far</Status>
+    <Memo>真的没有印象了，或许一起在公司学习过。</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000045</Id>
+    <Name>张淼</Name>
+    <Category>Elife</Category>
+    <Status>Far</Status>
+    <Memo>我去机场接的女生，住附近，还一起去横田家吃过火锅。后来离职自己去找了工作，比桑san给的好。没联系了。</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000046</Id>
+    <Name>刘恋</Name>
+    <Category>Elife</Category>
+    <Status>Far</Status>
+    <Memo>性格外向，算是聊过吧。再不记下来，真要连名字都忘了。</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000047</Id>
+    <Name>张海成</Name>
+    <Category>SJI</Category>
+    <Status>Far</Status>
+    <Memo>带我去现场的人，可是比我们晚到，感觉基本也没得到什么帮助。</Memo>
+    <Name2>UTS社长</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000048</Id>
+    <Name>高瑞</Name>
+    <Category>SJI</Category>
+    <Status>Far</Status>
+    <Memo>一起进现场的，张san找的人，比我大3岁，听说要回国。估计已经回了。很稳重的一个人，女朋友很漂亮，两人再上一个现场认识的。</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000049</Id>
+    <Name>丸山さん</Name>
+    <Category>SJI</Category>
+    <Status>Far</Status>
+    <Memo>現場責任者、技術担当。</Memo>
+    <Name2>EXEO責任者</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000050</Id>
+    <Name>江口さん</Name>
+    <Category>SJI</Category>
+    <Status>Far</Status>
+    <Memo>上のグループリーダー。私たちをからかって楽しんでいた。でも私が現場から追いだされる時、引き留めることをしてくれた。</Memo>
+    <Name2>SJI責任者</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000051</Id>
+    <Name>金时哲</Name>
+    <Category>SJI</Category>
+    <Status>Far</Status>
+    <Memo>现场受到他的照顾最多,也教了我一些日本的规则.后来很长时间都会在微信运动里给赞.朝鲜族,中日韩三国语言都在用.
+</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000052</Id>
+    <Name>羽柴直子</Name>
+    <Category>高岛平会场</Category>
+    <Status>Close</Status>
+    <Memo>2016年6月22日で出会った、朝起会の頒布で。これほど面倒をみてくれた人だから、恩返しをするのが、帰って難しいと感じました。</Memo>
+    <Name2>お世話係</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000053</Id>
+    <Name>中地和彦</Name>
+    <Category>高岛平会场</Category>
+    <Status>Close</Status>
+    <Memo>日本語も、日本文化も、いろいろ教えてくれました。</Memo>
+    <Name2>壮年リーダー</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000054</Id>
+    <Name>四戸ゆうこ</Name>
+    <Category>高岛平会场</Category>
+    <Status>Close</Status>
+    <Memo />
+    <Name2>会場責任者</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-05T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000055</Id>
+    <Name>龙浩</Name>
+    <Category>初中</Category>
+    <Status>Close</Status>
+    <Memo>初中同学，我自己认为的五人众。教我日语，三年后游戏水平还在我之上。</Memo>
+    <Name2 />
+    <Name3 />
+    <Address>电话</Address>
+    <InputDate>2019-12-07T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000056</Id>
+    <Name>吴亚</Name>
+    <Category>初中</Category>
+    <Status>Close</Status>
+    <Memo>初中五人众，喜欢画画，最初的同桌。学习也很好。</Memo>
+    <Name2>乌鸦</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-07T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000057</Id>
+    <Name>罗希</Name>
+    <Category>初中</Category>
+    <Status>Close</Status>
+    <Memo>初中五人众，眼镜，学习跟我差不多，前几名，特别是语文好。住校。</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-07T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000058</Id>
+    <Name>张杨</Name>
+    <Category>初中</Category>
+    <Status>Close</Status>
+    <Memo>初中五人众中接触最少的一个，性格开朗。
+</Memo>
+    <Name2>张扬</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-07T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000059</Id>
+    <Name>燕丽琼</Name>
+    <Category>初中</Category>
+    <Status>Close</Status>
+    <Memo>第一学期的班主任，小学同学苏丽拉的妈妈。给过我鼓励吧，初一上期中考试考得太差，被请了家长好像。期末考试考年级第一，还得了她留的奖励，巴黎圣母院，真心看不进去的书。只一学期就调走了。</Memo>
+    <Name2>班主任-语文老师</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-07T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000060</Id>
+    <Name>溪容梅</Name>
+    <Category>初中</Category>
+    <Status>Close</Status>
+    <Memo>很照顾我的班主任，数学竞赛迟到了，都给了我复试的机会。两年半的班主任，我当数学课代表的时间好像也不短，具体不记得了。</Memo>
+    <Name2>班主任-数学老师</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-07T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000061</Id>
+    <Name>姜晓涵</Name>
+    <Category>初中</Category>
+    <Status>Close</Status>
+    <Memo>班上最漂亮的女生，暗恋对象啊。选位置的时候专门挑的对方旁边，第三排的好位置，虽然假装是跟罗希坐一起。可惜后来眼睛实在看不到了，还是坐到第一排去了。</Memo>
+    <Name2 />
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-07T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000062</Id>
+    <Name>干劲</Name>
+    <Category>思辨</Category>
+    <Status>Far</Status>
+    <Memo>面试的时候写了个题我没做出来，尴尬。算是靠关系进去的。
+真说起来的话，是我最对不起的一个老板了。什么正事没干，四个月实习期过了就跑了，真不好意思。关键是后来还后悔了。</Memo>
+    <Name2>老板</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-08T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000063</Id>
+    <Name>刘勇</Name>
+    <Category>思辨</Category>
+    <Status>Far</Status>
+    <Memo>招聘时候面试，后来也一起吃饭，调节公司气氛，算是帮过我一些忙吧。记得他经常走得晚，后来我晚上呆公司的时候，也得等他走了才开游戏。没办法，家里得网太差，玩不了英雄联盟。
+</Memo>
+    <Name2>人事</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-08T00:00:00</InputDate>
+  </Person>
+  <Person>
+    <Id>P0000064</Id>
+    <Name>赵</Name>
+    <Category>思辨</Category>
+    <Status>Far</Status>
+    <Memo>真不记得名字了，白头发最有特征，近视眼却不带眼镜，确实不知道为什么。公司技术负责人，但当时主要在做前台，作为后台的我真不知道该不该去问问题。</Memo>
+    <Name2>技术负责人</Name2>
+    <Name3 />
+    <Address />
+    <InputDate>2019-12-08T00:00:00</InputDate>
+  </Person>
+</ArrayOfPerson>
