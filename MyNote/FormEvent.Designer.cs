@@ -74,6 +74,7 @@
             this.dataGridViewRefList.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dataGridViewRefList.MultiSelect = false;
             this.dataGridViewRefList.Name = "dataGridViewRefList";
+            this.dataGridViewRefList.RowHeadersWidth = 62;
             this.dataGridViewRefList.RowTemplate.Height = 24;
             this.dataGridViewRefList.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridViewRefList.Size = new System.Drawing.Size(1130, 1105);
@@ -85,6 +86,7 @@
             // DataGridViewTextBoxColumn9
             // 
             this.DataGridViewTextBoxColumn9.HeaderText = "RefName";
+            this.DataGridViewTextBoxColumn9.MinimumWidth = 8;
             this.DataGridViewTextBoxColumn9.Name = "DataGridViewTextBoxColumn9";
             this.DataGridViewTextBoxColumn9.ReadOnly = true;
             // 
@@ -131,6 +133,7 @@
             this.dataGridViewList.Location = new System.Drawing.Point(1629, 34);
             this.dataGridViewList.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dataGridViewList.Name = "dataGridViewList";
+            this.dataGridViewList.RowHeadersWidth = 62;
             this.dataGridViewList.RowTemplate.Height = 24;
             this.dataGridViewList.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridViewList.Size = new System.Drawing.Size(420, 1105);
@@ -139,11 +142,13 @@
             // CategoryName
             // 
             this.CategoryName.HeaderText = "Name";
+            this.CategoryName.MinimumWidth = 8;
             this.CategoryName.Name = "CategoryName";
             // 
             // ParentCategory
             // 
             this.ParentCategory.HeaderText = "Parent";
+            this.ParentCategory.MinimumWidth = 8;
             this.ParentCategory.Name = "ParentCategory";
             // 
             // buttonUpdate
@@ -270,8 +275,8 @@
             // 
             // FormEvent
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleDimensions = new System.Drawing.SizeF(144F, 144F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.ClientSize = new System.Drawing.Size(2867, 1552);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.chart1);
