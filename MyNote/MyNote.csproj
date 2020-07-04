@@ -120,6 +120,8 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>copy $(TargetPath) "C:\jiao\1.diary\MyNote"</PostBuildEvent>
+    <PostBuildEvent>copy $(TargetPath) "C:\jiao\1.diary\MyNote"
+copy $(TargetPath) "C:\GitHub\MyNote\data"
+</PostBuildEvent>
   </PropertyGroup>
 </Project>

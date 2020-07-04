@@ -103,6 +103,13 @@
             this.DataGridViewTextBoxColumn9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.treeView1 = new System.Windows.Forms.TreeView();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.buttonMarkE = new System.Windows.Forms.Button();
+            this.buttonMarkP = new System.Windows.Forms.Button();
+            this.buttonMarkC = new System.Windows.Forms.Button();
+            this.buttonAddToP = new System.Windows.Forms.Button();
+            this.buttonAddToC = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.checkedListBoxSortEvent = new System.Windows.Forms.CheckedListBox();
             this.buttonCItemClear = new System.Windows.Forms.Button();
             this.buttonTagAdd = new System.Windows.Forms.Button();
             this.textBoxTagAdd = new System.Windows.Forms.TextBox();
@@ -248,13 +255,6 @@
             this.buttonEventView = new System.Windows.Forms.Button();
             this.buttonUpdate = new System.Windows.Forms.Button();
             this.buttonBackup = new System.Windows.Forms.Button();
-            this.checkedListBoxSortEvent = new System.Windows.Forms.CheckedListBox();
-            this.buttonAddToC = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.buttonAddToP = new System.Windows.Forms.Button();
-            this.buttonMarkC = new System.Windows.Forms.Button();
-            this.buttonMarkP = new System.Windows.Forms.Button();
-            this.buttonMarkE = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewEvent)).BeginInit();
@@ -362,6 +362,7 @@
             this.dataGridViewEvent.Location = new System.Drawing.Point(1104, 7);
             this.dataGridViewEvent.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dataGridViewEvent.Name = "dataGridViewEvent";
+            this.dataGridViewEvent.RowHeadersWidth = 62;
             this.dataGridViewEvent.RowTemplate.Height = 24;
             this.dataGridViewEvent.Size = new System.Drawing.Size(1482, 1480);
             this.dataGridViewEvent.TabIndex = 2;
@@ -370,6 +371,7 @@
             // dataGridViewTextBoxColumn1
             // 
             this.dataGridViewTextBoxColumn1.HeaderText = "EventName";
+            this.dataGridViewTextBoxColumn1.MinimumWidth = 8;
             this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
             // 
             // dataGridView1
@@ -381,6 +383,7 @@
             this.dataGridView1.Location = new System.Drawing.Point(479, 56);
             this.dataGridView1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 62;
             this.dataGridView1.RowTemplate.Height = 24;
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridView1.Size = new System.Drawing.Size(568, 1431);
@@ -389,6 +392,7 @@
             // DataGridViewTextBoxColumn9
             // 
             this.DataGridViewTextBoxColumn9.HeaderText = "RefName";
+            this.DataGridViewTextBoxColumn9.MinimumWidth = 8;
             this.DataGridViewTextBoxColumn9.Name = "DataGridViewTextBoxColumn9";
             // 
             // treeView1
@@ -478,6 +482,71 @@
             this.tabPage2.TabIndex = 2;
             this.tabPage2.Text = "Collection";
             this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // buttonMarkE
+            // 
+            this.buttonMarkE.Location = new System.Drawing.Point(2210, 600);
+            this.buttonMarkE.Name = "buttonMarkE";
+            this.buttonMarkE.Size = new System.Drawing.Size(90, 30);
+            this.buttonMarkE.TabIndex = 164;
+            this.buttonMarkE.Text = "MarkE";
+            this.buttonMarkE.UseVisualStyleBackColor = true;
+            // 
+            // buttonMarkP
+            // 
+            this.buttonMarkP.Location = new System.Drawing.Point(2424, 600);
+            this.buttonMarkP.Name = "buttonMarkP";
+            this.buttonMarkP.Size = new System.Drawing.Size(90, 30);
+            this.buttonMarkP.TabIndex = 163;
+            this.buttonMarkP.Text = "MarkP";
+            this.buttonMarkP.UseVisualStyleBackColor = true;
+            // 
+            // buttonMarkC
+            // 
+            this.buttonMarkC.Location = new System.Drawing.Point(2319, 600);
+            this.buttonMarkC.Name = "buttonMarkC";
+            this.buttonMarkC.Size = new System.Drawing.Size(90, 30);
+            this.buttonMarkC.TabIndex = 162;
+            this.buttonMarkC.Text = "MarkC";
+            this.buttonMarkC.UseVisualStyleBackColor = true;
+            // 
+            // buttonAddToP
+            // 
+            this.buttonAddToP.Location = new System.Drawing.Point(2424, 550);
+            this.buttonAddToP.Name = "buttonAddToP";
+            this.buttonAddToP.Size = new System.Drawing.Size(90, 30);
+            this.buttonAddToP.TabIndex = 161;
+            this.buttonAddToP.Text = "AddToP";
+            this.buttonAddToP.UseVisualStyleBackColor = true;
+            // 
+            // buttonAddToC
+            // 
+            this.buttonAddToC.Location = new System.Drawing.Point(2319, 550);
+            this.buttonAddToC.Name = "buttonAddToC";
+            this.buttonAddToC.Size = new System.Drawing.Size(90, 30);
+            this.buttonAddToC.TabIndex = 160;
+            this.buttonAddToC.Text = "AddToC";
+            this.buttonAddToC.UseVisualStyleBackColor = true;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(2158, 549);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textBox1.Multiline = true;
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(142, 31);
+            this.textBox1.TabIndex = 159;
+            // 
+            // checkedListBoxSortEvent
+            // 
+            this.checkedListBoxSortEvent.CheckOnClick = true;
+            this.checkedListBoxSortEvent.FormattingEnabled = true;
+            this.checkedListBoxSortEvent.Location = new System.Drawing.Point(2158, 14);
+            this.checkedListBoxSortEvent.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.checkedListBoxSortEvent.MultiColumn = true;
+            this.checkedListBoxSortEvent.Name = "checkedListBoxSortEvent";
+            this.checkedListBoxSortEvent.Size = new System.Drawing.Size(400, 508);
+            this.checkedListBoxSortEvent.TabIndex = 158;
             // 
             // buttonCItemClear
             // 
@@ -954,7 +1023,7 @@
             this.checkedListBoxCTags.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkedListBoxCTags.MultiColumn = true;
             this.checkedListBoxCTags.Name = "checkedListBoxCTags";
-            this.checkedListBoxCTags.Size = new System.Drawing.Size(400, 524);
+            this.checkedListBoxCTags.Size = new System.Drawing.Size(400, 508);
             this.checkedListBoxCTags.TabIndex = 115;
             // 
             // treeViewCollection
@@ -1496,7 +1565,7 @@
             this.checkedListBoxFTags.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkedListBoxFTags.MultiColumn = true;
             this.checkedListBoxFTags.Name = "checkedListBoxFTags";
-            this.checkedListBoxFTags.Size = new System.Drawing.Size(400, 524);
+            this.checkedListBoxFTags.Size = new System.Drawing.Size(400, 508);
             this.checkedListBoxFTags.TabIndex = 180;
             // 
             // treeViewFantasy
@@ -1583,6 +1652,7 @@
             this.dataGridViewPersonGroup.Location = new System.Drawing.Point(478, 28);
             this.dataGridViewPersonGroup.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dataGridViewPersonGroup.Name = "dataGridViewPersonGroup";
+            this.dataGridViewPersonGroup.RowHeadersWidth = 62;
             this.dataGridViewPersonGroup.RowTemplate.Height = 24;
             this.dataGridViewPersonGroup.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridViewPersonGroup.Size = new System.Drawing.Size(421, 1008);
@@ -1592,6 +1662,7 @@
             // dataGridViewTextBoxColumn3
             // 
             this.dataGridViewTextBoxColumn3.HeaderText = "Total";
+            this.dataGridViewTextBoxColumn3.MinimumWidth = 8;
             this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
             // 
             // label19
@@ -1767,6 +1838,7 @@
             this.dataGridView3.Location = new System.Drawing.Point(905, 671);
             this.dataGridView3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dataGridView3.Name = "dataGridView3";
+            this.dataGridView3.RowHeadersWidth = 62;
             this.dataGridView3.RowTemplate.Height = 24;
             this.dataGridView3.Size = new System.Drawing.Size(1148, 366);
             this.dataGridView3.TabIndex = 61;
@@ -1774,7 +1846,9 @@
             // dataGridViewTextBoxColumn2
             // 
             this.dataGridViewTextBoxColumn2.HeaderText = "Total";
+            this.dataGridViewTextBoxColumn2.MinimumWidth = 8;
             this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
+            this.dataGridViewTextBoxColumn2.Width = 150;
             // 
             // treeViewPerson
             // 
@@ -1827,6 +1901,7 @@
             this.dataGridViewCategoryList.Location = new System.Drawing.Point(6, 7);
             this.dataGridViewCategoryList.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dataGridViewCategoryList.Name = "dataGridViewCategoryList";
+            this.dataGridViewCategoryList.RowHeadersWidth = 62;
             this.dataGridViewCategoryList.RowTemplate.Height = 24;
             this.dataGridViewCategoryList.Size = new System.Drawing.Size(329, 1031);
             this.dataGridViewCategoryList.TabIndex = 17;
@@ -1835,6 +1910,7 @@
             // dataGridViewTextBoxColumn7
             // 
             this.dataGridViewTextBoxColumn7.HeaderText = "Group";
+            this.dataGridViewTextBoxColumn7.MinimumWidth = 8;
             this.dataGridViewTextBoxColumn7.Name = "dataGridViewTextBoxColumn7";
             // 
             // label15
@@ -1873,6 +1949,7 @@
             this.dataGridViewCategory.Location = new System.Drawing.Point(526, 226);
             this.dataGridViewCategory.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dataGridViewCategory.Name = "dataGridViewCategory";
+            this.dataGridViewCategory.RowHeadersWidth = 62;
             this.dataGridViewCategory.RowTemplate.Height = 24;
             this.dataGridViewCategory.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridViewCategory.Size = new System.Drawing.Size(420, 782);
@@ -1881,11 +1958,13 @@
             // CategoryName
             // 
             this.CategoryName.HeaderText = "Name";
+            this.CategoryName.MinimumWidth = 8;
             this.CategoryName.Name = "CategoryName";
             // 
             // ParentCategory
             // 
             this.ParentCategory.HeaderText = "Parent";
+            this.ParentCategory.MinimumWidth = 8;
             this.ParentCategory.Name = "ParentCategory";
             // 
             // buttonUpdateCategory
@@ -2005,75 +2084,9 @@
             this.buttonBackup.UseVisualStyleBackColor = true;
             this.buttonBackup.Click += new System.EventHandler(this.buttonBackup_Click);
             // 
-            // checkedListBoxSortEvent
-            // 
-            this.checkedListBoxSortEvent.CheckOnClick = true;
-            this.checkedListBoxSortEvent.FormattingEnabled = true;
-            this.checkedListBoxSortEvent.Location = new System.Drawing.Point(2158, 14);
-            this.checkedListBoxSortEvent.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.checkedListBoxSortEvent.MultiColumn = true;
-            this.checkedListBoxSortEvent.Name = "checkedListBoxSortEvent";
-            this.checkedListBoxSortEvent.Size = new System.Drawing.Size(400, 524);
-            this.checkedListBoxSortEvent.TabIndex = 158;
-            // 
-            // buttonAddToC
-            // 
-            this.buttonAddToC.Location = new System.Drawing.Point(2319, 550);
-            this.buttonAddToC.Name = "buttonAddToC";
-            this.buttonAddToC.Size = new System.Drawing.Size(90, 30);
-            this.buttonAddToC.TabIndex = 160;
-            this.buttonAddToC.Text = "AddToC";
-            this.buttonAddToC.UseVisualStyleBackColor = true;
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(2158, 549);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(142, 31);
-            this.textBox1.TabIndex = 159;
-            // 
-            // buttonAddToP
-            // 
-            this.buttonAddToP.Location = new System.Drawing.Point(2424, 550);
-            this.buttonAddToP.Name = "buttonAddToP";
-            this.buttonAddToP.Size = new System.Drawing.Size(90, 30);
-            this.buttonAddToP.TabIndex = 161;
-            this.buttonAddToP.Text = "AddToP";
-            this.buttonAddToP.UseVisualStyleBackColor = true;
-            // 
-            // buttonMarkC
-            // 
-            this.buttonMarkC.Location = new System.Drawing.Point(2319, 600);
-            this.buttonMarkC.Name = "buttonMarkC";
-            this.buttonMarkC.Size = new System.Drawing.Size(90, 30);
-            this.buttonMarkC.TabIndex = 162;
-            this.buttonMarkC.Text = "MarkC";
-            this.buttonMarkC.UseVisualStyleBackColor = true;
-            // 
-            // buttonMarkP
-            // 
-            this.buttonMarkP.Location = new System.Drawing.Point(2424, 600);
-            this.buttonMarkP.Name = "buttonMarkP";
-            this.buttonMarkP.Size = new System.Drawing.Size(90, 30);
-            this.buttonMarkP.TabIndex = 163;
-            this.buttonMarkP.Text = "MarkP";
-            this.buttonMarkP.UseVisualStyleBackColor = true;
-            // 
-            // buttonMarkE
-            // 
-            this.buttonMarkE.Location = new System.Drawing.Point(2210, 600);
-            this.buttonMarkE.Name = "buttonMarkE";
-            this.buttonMarkE.Size = new System.Drawing.Size(90, 30);
-            this.buttonMarkE.TabIndex = 164;
-            this.buttonMarkE.Text = "MarkE";
-            this.buttonMarkE.UseVisualStyleBackColor = true;
-            // 
             // FormDiary
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(2778, 1644);
             this.Controls.Add(this.buttonBackup);
             this.Controls.Add(this.buttonEventSave);
