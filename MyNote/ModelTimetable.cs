@@ -111,11 +111,11 @@ namespace MyNote
             EndTime = DateTime.MaxValue;
             foreach (var itr in mCategory.Items)
             {
-                if (itr.Name == "Timetable" && itr.Date > curDate)
+                if (itr.Name == "Event" && itr.Date > curDate)
                 {
                     EndTime = itr.Date;
                 }
-                else if (itr.Name == "Timetable" && itr.Date <= curDate)
+                else if (itr.Name == "Event" && itr.Date <= curDate)
                 {
                     Timetable = new TimetableItem(itr.Category);
                     StartTime = itr.Date;
@@ -124,7 +124,7 @@ namespace MyNote
             }
             if (Timetable == null)
             {
-                Timetable = new TimetableItem("Timetable");
+                Timetable = new TimetableItem("Event");
                 //throw new Exception("No Timetable is found in \"Category.xml\".");
             }
             return Timetable;

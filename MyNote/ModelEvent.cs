@@ -737,6 +737,23 @@ namespace MyNote
         }
     }
 
-    
+    public class ImportEventItem : EventItem, IComparable<ImportEventItem>
+    {
+        public int parentId { get; set; }
+        public ImportEventItem() { }
+        public ImportEventItem(EventItem e, int parentId) : base(e.Date, e.Time, e.Memo)
+        {
+            this.parentId = parentId;
+        }
+
+        public int CompareTo(ImportEventItem other)
+        {
+            if (null == other)
+            {
+                return 1;//空值比较大，返回1
+            }
+            return this.Date.CompareTo(other.Date);//Up
+        }
+    }
 
 }

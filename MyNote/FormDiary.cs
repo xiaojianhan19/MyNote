@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Npgsql;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -1109,6 +1110,18 @@ namespace MyNote
             int ret = mEvent.SearchRefEvent(textBoxEventSearch.Text, refEvs);
             if (ret == 1)
                 BindViewEventItems(refEvs, dataGridView1);
+        }
+
+        private void buttonImportToDB_Click(object sender, EventArgs e)
+        {
+            NpgsqlDBImport.NpgsqlDBImportEvent(mEvent);
+
+            NpgsqlDBImport.NpgsqlDBImportPerson(mPerson);
+
+            NpgsqlDBImport.NpgsqlDBImportCollection(mCollection);
+
+            NpgsqlDBImport.NpgsqlDBImportCategory(mCategory);
+
         }
     }
 }

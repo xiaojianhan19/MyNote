@@ -28,11 +28,11 @@ namespace MyNote
             EndTime = DateTime.MaxValue;
             foreach (var itr in mCategory.Items)
             {
-                if (itr.Name == "Relation" && itr.Date > curDate)
+                if (itr.Name == "Person" && itr.Date > curDate)
                 {
                     EndTime = itr.Date;
                 }
-                else if (itr.Name == "Relation" && itr.Date <= curDate)
+                else if (itr.Name == "Person" && itr.Date <= curDate)
                 {
                     Category = new Category(itr.Category);
                     StartTime = itr.Date;
@@ -41,7 +41,7 @@ namespace MyNote
             }
             if (Category == null)
             {
-                Category = new Category("Relation");
+                Category = new Category("Person");
                 //throw new Exception("No Timetable is found in \"Category.xml\".");
             }
 

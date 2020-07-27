@@ -28,69 +28,69 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.TreeNode treeNode176 = new System.Windows.Forms.TreeNode("Work");
-            System.Windows.Forms.TreeNode treeNode177 = new System.Windows.Forms.TreeNode("Life");
-            System.Windows.Forms.TreeNode treeNode178 = new System.Windows.Forms.TreeNode("Learn");
-            System.Windows.Forms.TreeNode treeNode179 = new System.Windows.Forms.TreeNode("Play");
-            System.Windows.Forms.TreeNode treeNode180 = new System.Windows.Forms.TreeNode("Total", new System.Windows.Forms.TreeNode[] {
-            treeNode176,
-            treeNode177,
-            treeNode178,
-            treeNode179});
-            System.Windows.Forms.TreeNode treeNode181 = new System.Windows.Forms.TreeNode("Work");
-            System.Windows.Forms.TreeNode treeNode182 = new System.Windows.Forms.TreeNode("Life");
-            System.Windows.Forms.TreeNode treeNode183 = new System.Windows.Forms.TreeNode("Learn");
-            System.Windows.Forms.TreeNode treeNode184 = new System.Windows.Forms.TreeNode("Play");
-            System.Windows.Forms.TreeNode treeNode185 = new System.Windows.Forms.TreeNode("Total", new System.Windows.Forms.TreeNode[] {
-            treeNode181,
-            treeNode182,
-            treeNode183,
-            treeNode184});
-            System.Windows.Forms.TreeNode treeNode186 = new System.Windows.Forms.TreeNode("Work");
-            System.Windows.Forms.TreeNode treeNode187 = new System.Windows.Forms.TreeNode("Life");
-            System.Windows.Forms.TreeNode treeNode188 = new System.Windows.Forms.TreeNode("Learn");
-            System.Windows.Forms.TreeNode treeNode189 = new System.Windows.Forms.TreeNode("Play");
-            System.Windows.Forms.TreeNode treeNode190 = new System.Windows.Forms.TreeNode("Total", new System.Windows.Forms.TreeNode[] {
-            treeNode186,
-            treeNode187,
-            treeNode188,
-            treeNode189});
-            System.Windows.Forms.TreeNode treeNode191 = new System.Windows.Forms.TreeNode("Work");
-            System.Windows.Forms.TreeNode treeNode192 = new System.Windows.Forms.TreeNode("Life");
-            System.Windows.Forms.TreeNode treeNode193 = new System.Windows.Forms.TreeNode("Learn");
-            System.Windows.Forms.TreeNode treeNode194 = new System.Windows.Forms.TreeNode("Play");
-            System.Windows.Forms.TreeNode treeNode195 = new System.Windows.Forms.TreeNode("Total", new System.Windows.Forms.TreeNode[] {
-            treeNode191,
-            treeNode192,
-            treeNode193,
-            treeNode194});
-            System.Windows.Forms.TreeNode treeNode196 = new System.Windows.Forms.TreeNode("Work");
-            System.Windows.Forms.TreeNode treeNode197 = new System.Windows.Forms.TreeNode("Life");
-            System.Windows.Forms.TreeNode treeNode198 = new System.Windows.Forms.TreeNode("Learn");
-            System.Windows.Forms.TreeNode treeNode199 = new System.Windows.Forms.TreeNode("Play");
-            System.Windows.Forms.TreeNode treeNode200 = new System.Windows.Forms.TreeNode("Total", new System.Windows.Forms.TreeNode[] {
-            treeNode196,
-            treeNode197,
-            treeNode198,
-            treeNode199});
-            System.Windows.Forms.TreeNode treeNode201 = new System.Windows.Forms.TreeNode("Work");
-            System.Windows.Forms.TreeNode treeNode202 = new System.Windows.Forms.TreeNode("Life");
-            System.Windows.Forms.TreeNode treeNode203 = new System.Windows.Forms.TreeNode("Learn");
-            System.Windows.Forms.TreeNode treeNode204 = new System.Windows.Forms.TreeNode("Play");
-            System.Windows.Forms.TreeNode treeNode205 = new System.Windows.Forms.TreeNode("Total", new System.Windows.Forms.TreeNode[] {
-            treeNode201,
-            treeNode202,
-            treeNode203,
-            treeNode204});
-            System.Windows.Forms.TreeNode treeNode206 = new System.Windows.Forms.TreeNode("Work");
-            System.Windows.Forms.TreeNode treeNode207 = new System.Windows.Forms.TreeNode("Life");
-            System.Windows.Forms.TreeNode treeNode208 = new System.Windows.Forms.TreeNode("Learn");
-            System.Windows.Forms.TreeNode treeNode209 = new System.Windows.Forms.TreeNode("Play");
-            System.Windows.Forms.TreeNode treeNode210 = new System.Windows.Forms.TreeNode("Total", new System.Windows.Forms.TreeNode[] {
-            treeNode206,
-            treeNode207,
-            treeNode208,
-            treeNode209});
+            System.Windows.Forms.TreeNode treeNode36 = new System.Windows.Forms.TreeNode("Work");
+            System.Windows.Forms.TreeNode treeNode37 = new System.Windows.Forms.TreeNode("Life");
+            System.Windows.Forms.TreeNode treeNode38 = new System.Windows.Forms.TreeNode("Learn");
+            System.Windows.Forms.TreeNode treeNode39 = new System.Windows.Forms.TreeNode("Play");
+            System.Windows.Forms.TreeNode treeNode40 = new System.Windows.Forms.TreeNode("Total", new System.Windows.Forms.TreeNode[] {
+            treeNode36,
+            treeNode37,
+            treeNode38,
+            treeNode39});
+            System.Windows.Forms.TreeNode treeNode41 = new System.Windows.Forms.TreeNode("Work");
+            System.Windows.Forms.TreeNode treeNode42 = new System.Windows.Forms.TreeNode("Life");
+            System.Windows.Forms.TreeNode treeNode43 = new System.Windows.Forms.TreeNode("Learn");
+            System.Windows.Forms.TreeNode treeNode44 = new System.Windows.Forms.TreeNode("Play");
+            System.Windows.Forms.TreeNode treeNode45 = new System.Windows.Forms.TreeNode("Total", new System.Windows.Forms.TreeNode[] {
+            treeNode41,
+            treeNode42,
+            treeNode43,
+            treeNode44});
+            System.Windows.Forms.TreeNode treeNode46 = new System.Windows.Forms.TreeNode("Work");
+            System.Windows.Forms.TreeNode treeNode47 = new System.Windows.Forms.TreeNode("Life");
+            System.Windows.Forms.TreeNode treeNode48 = new System.Windows.Forms.TreeNode("Learn");
+            System.Windows.Forms.TreeNode treeNode49 = new System.Windows.Forms.TreeNode("Play");
+            System.Windows.Forms.TreeNode treeNode50 = new System.Windows.Forms.TreeNode("Total", new System.Windows.Forms.TreeNode[] {
+            treeNode46,
+            treeNode47,
+            treeNode48,
+            treeNode49});
+            System.Windows.Forms.TreeNode treeNode51 = new System.Windows.Forms.TreeNode("Work");
+            System.Windows.Forms.TreeNode treeNode52 = new System.Windows.Forms.TreeNode("Life");
+            System.Windows.Forms.TreeNode treeNode53 = new System.Windows.Forms.TreeNode("Learn");
+            System.Windows.Forms.TreeNode treeNode54 = new System.Windows.Forms.TreeNode("Play");
+            System.Windows.Forms.TreeNode treeNode55 = new System.Windows.Forms.TreeNode("Total", new System.Windows.Forms.TreeNode[] {
+            treeNode51,
+            treeNode52,
+            treeNode53,
+            treeNode54});
+            System.Windows.Forms.TreeNode treeNode56 = new System.Windows.Forms.TreeNode("Work");
+            System.Windows.Forms.TreeNode treeNode57 = new System.Windows.Forms.TreeNode("Life");
+            System.Windows.Forms.TreeNode treeNode58 = new System.Windows.Forms.TreeNode("Learn");
+            System.Windows.Forms.TreeNode treeNode59 = new System.Windows.Forms.TreeNode("Play");
+            System.Windows.Forms.TreeNode treeNode60 = new System.Windows.Forms.TreeNode("Total", new System.Windows.Forms.TreeNode[] {
+            treeNode56,
+            treeNode57,
+            treeNode58,
+            treeNode59});
+            System.Windows.Forms.TreeNode treeNode61 = new System.Windows.Forms.TreeNode("Work");
+            System.Windows.Forms.TreeNode treeNode62 = new System.Windows.Forms.TreeNode("Life");
+            System.Windows.Forms.TreeNode treeNode63 = new System.Windows.Forms.TreeNode("Learn");
+            System.Windows.Forms.TreeNode treeNode64 = new System.Windows.Forms.TreeNode("Play");
+            System.Windows.Forms.TreeNode treeNode65 = new System.Windows.Forms.TreeNode("Total", new System.Windows.Forms.TreeNode[] {
+            treeNode61,
+            treeNode62,
+            treeNode63,
+            treeNode64});
+            System.Windows.Forms.TreeNode treeNode66 = new System.Windows.Forms.TreeNode("Work");
+            System.Windows.Forms.TreeNode treeNode67 = new System.Windows.Forms.TreeNode("Life");
+            System.Windows.Forms.TreeNode treeNode68 = new System.Windows.Forms.TreeNode("Learn");
+            System.Windows.Forms.TreeNode treeNode69 = new System.Windows.Forms.TreeNode("Play");
+            System.Windows.Forms.TreeNode treeNode70 = new System.Windows.Forms.TreeNode("Total", new System.Windows.Forms.TreeNode[] {
+            treeNode66,
+            treeNode67,
+            treeNode68,
+            treeNode69});
             this.treeViewCategory = new System.Windows.Forms.TreeView();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
@@ -255,6 +255,7 @@
             this.buttonEventView = new System.Windows.Forms.Button();
             this.buttonUpdate = new System.Windows.Forms.Button();
             this.buttonBackup = new System.Windows.Forms.Button();
+            this.buttonImportToDB = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewEvent)).BeginInit();
@@ -274,18 +275,18 @@
             this.treeViewCategory.Location = new System.Drawing.Point(985, 17);
             this.treeViewCategory.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.treeViewCategory.Name = "treeViewCategory";
-            treeNode176.Name = "ノード1";
-            treeNode176.Text = "Work";
-            treeNode177.Name = "ノード2";
-            treeNode177.Text = "Life";
-            treeNode178.Name = "ノード3";
-            treeNode178.Text = "Learn";
-            treeNode179.Name = "ノード4";
-            treeNode179.Text = "Play";
-            treeNode180.Name = "ノード0";
-            treeNode180.Text = "Total";
+            treeNode36.Name = "ノード1";
+            treeNode36.Text = "Work";
+            treeNode37.Name = "ノード2";
+            treeNode37.Text = "Life";
+            treeNode38.Name = "ノード3";
+            treeNode38.Text = "Learn";
+            treeNode39.Name = "ノード4";
+            treeNode39.Text = "Play";
+            treeNode40.Name = "ノード0";
+            treeNode40.Text = "Total";
             this.treeViewCategory.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode180});
+            treeNode40});
             this.treeViewCategory.Size = new System.Drawing.Size(877, 991);
             this.treeViewCategory.TabIndex = 18;
             // 
@@ -400,18 +401,18 @@
             this.treeView1.Location = new System.Drawing.Point(8, 7);
             this.treeView1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.treeView1.Name = "treeView1";
-            treeNode181.Name = "ノード1";
-            treeNode181.Text = "Work";
-            treeNode182.Name = "ノード2";
-            treeNode182.Text = "Life";
-            treeNode183.Name = "ノード3";
-            treeNode183.Text = "Learn";
-            treeNode184.Name = "ノード4";
-            treeNode184.Text = "Play";
-            treeNode185.Name = "ノード0";
-            treeNode185.Text = "Total";
+            treeNode41.Name = "ノード1";
+            treeNode41.Text = "Work";
+            treeNode42.Name = "ノード2";
+            treeNode42.Text = "Life";
+            treeNode43.Name = "ノード3";
+            treeNode43.Text = "Learn";
+            treeNode44.Name = "ノード4";
+            treeNode44.Text = "Play";
+            treeNode45.Name = "ノード0";
+            treeNode45.Text = "Total";
             this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode185});
+            treeNode45});
             this.treeView1.Size = new System.Drawing.Size(465, 1354);
             this.treeView1.TabIndex = 0;
             // 
@@ -478,7 +479,7 @@
             this.tabPage2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.tabPage2.Size = new System.Drawing.Size(2592, 1300);
+            this.tabPage2.Size = new System.Drawing.Size(2592, 1375);
             this.tabPage2.TabIndex = 2;
             this.tabPage2.Text = "Collection";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -545,7 +546,7 @@
             this.checkedListBoxSortEvent.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkedListBoxSortEvent.MultiColumn = true;
             this.checkedListBoxSortEvent.Name = "checkedListBoxSortEvent";
-            this.checkedListBoxSortEvent.Size = new System.Drawing.Size(400, 508);
+            this.checkedListBoxSortEvent.Size = new System.Drawing.Size(400, 498);
             this.checkedListBoxSortEvent.TabIndex = 158;
             // 
             // buttonCItemClear
@@ -768,18 +769,18 @@
             this.treeViewCollectionDetail.Location = new System.Drawing.Point(489, 14);
             this.treeViewCollectionDetail.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.treeViewCollectionDetail.Name = "treeViewCollectionDetail";
-            treeNode186.Name = "ノード1";
-            treeNode186.Text = "Work";
-            treeNode187.Name = "ノード2";
-            treeNode187.Text = "Life";
-            treeNode188.Name = "ノード3";
-            treeNode188.Text = "Learn";
-            treeNode189.Name = "ノード4";
-            treeNode189.Text = "Play";
-            treeNode190.Name = "ノード0";
-            treeNode190.Text = "Total";
+            treeNode46.Name = "ノード1";
+            treeNode46.Text = "Work";
+            treeNode47.Name = "ノード2";
+            treeNode47.Text = "Life";
+            treeNode48.Name = "ノード3";
+            treeNode48.Text = "Learn";
+            treeNode49.Name = "ノード4";
+            treeNode49.Text = "Play";
+            treeNode50.Name = "ノード0";
+            treeNode50.Text = "Total";
             this.treeViewCollectionDetail.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode190});
+            treeNode50});
             this.treeViewCollectionDetail.Size = new System.Drawing.Size(427, 1250);
             this.treeViewCollectionDetail.TabIndex = 100;
             this.treeViewCollectionDetail.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeViewCollectionDetail_AfterSelect);
@@ -1023,7 +1024,7 @@
             this.checkedListBoxCTags.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkedListBoxCTags.MultiColumn = true;
             this.checkedListBoxCTags.Name = "checkedListBoxCTags";
-            this.checkedListBoxCTags.Size = new System.Drawing.Size(400, 508);
+            this.checkedListBoxCTags.Size = new System.Drawing.Size(400, 498);
             this.checkedListBoxCTags.TabIndex = 115;
             // 
             // treeViewCollection
@@ -1031,18 +1032,18 @@
             this.treeViewCollection.Location = new System.Drawing.Point(7, 14);
             this.treeViewCollection.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.treeViewCollection.Name = "treeViewCollection";
-            treeNode191.Name = "ノード1";
-            treeNode191.Text = "Work";
-            treeNode192.Name = "ノード2";
-            treeNode192.Text = "Life";
-            treeNode193.Name = "ノード3";
-            treeNode193.Text = "Learn";
-            treeNode194.Name = "ノード4";
-            treeNode194.Text = "Play";
-            treeNode195.Name = "ノード0";
-            treeNode195.Text = "Total";
+            treeNode51.Name = "ノード1";
+            treeNode51.Text = "Work";
+            treeNode52.Name = "ノード2";
+            treeNode52.Text = "Life";
+            treeNode53.Name = "ノード3";
+            treeNode53.Text = "Learn";
+            treeNode54.Name = "ノード4";
+            treeNode54.Text = "Play";
+            treeNode55.Name = "ノード0";
+            treeNode55.Text = "Total";
             this.treeViewCollection.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode195});
+            treeNode55});
             this.treeViewCollection.Size = new System.Drawing.Size(465, 1250);
             this.treeViewCollection.TabIndex = 4;
             this.treeViewCollection.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeViewCollection_AfterSelect);
@@ -1100,7 +1101,7 @@
             this.tabPage3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.tabPage3.Size = new System.Drawing.Size(2592, 1300);
+            this.tabPage3.Size = new System.Drawing.Size(2592, 1375);
             this.tabPage3.TabIndex = 3;
             this.tabPage3.Text = "Fantasy";
             this.tabPage3.UseVisualStyleBackColor = true;
@@ -1332,18 +1333,18 @@
             this.treeViewFantasyDetail.Location = new System.Drawing.Point(488, 8);
             this.treeViewFantasyDetail.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.treeViewFantasyDetail.Name = "treeViewFantasyDetail";
-            treeNode196.Name = "ノード1";
-            treeNode196.Text = "Work";
-            treeNode197.Name = "ノード2";
-            treeNode197.Text = "Life";
-            treeNode198.Name = "ノード3";
-            treeNode198.Text = "Learn";
-            treeNode199.Name = "ノード4";
-            treeNode199.Text = "Play";
-            treeNode200.Name = "ノード0";
-            treeNode200.Text = "Total";
+            treeNode56.Name = "ノード1";
+            treeNode56.Text = "Work";
+            treeNode57.Name = "ノード2";
+            treeNode57.Text = "Life";
+            treeNode58.Name = "ノード3";
+            treeNode58.Text = "Learn";
+            treeNode59.Name = "ノード4";
+            treeNode59.Text = "Play";
+            treeNode60.Name = "ノード0";
+            treeNode60.Text = "Total";
             this.treeViewFantasyDetail.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode200});
+            treeNode60});
             this.treeViewFantasyDetail.Size = new System.Drawing.Size(427, 1250);
             this.treeViewFantasyDetail.TabIndex = 176;
             this.treeViewFantasyDetail.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeViewFantasyDetail_AfterSelect);
@@ -1565,7 +1566,7 @@
             this.checkedListBoxFTags.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkedListBoxFTags.MultiColumn = true;
             this.checkedListBoxFTags.Name = "checkedListBoxFTags";
-            this.checkedListBoxFTags.Size = new System.Drawing.Size(400, 508);
+            this.checkedListBoxFTags.Size = new System.Drawing.Size(400, 498);
             this.checkedListBoxFTags.TabIndex = 180;
             // 
             // treeViewFantasy
@@ -1573,18 +1574,18 @@
             this.treeViewFantasy.Location = new System.Drawing.Point(6, 8);
             this.treeViewFantasy.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.treeViewFantasy.Name = "treeViewFantasy";
-            treeNode201.Name = "ノード1";
-            treeNode201.Text = "Work";
-            treeNode202.Name = "ノード2";
-            treeNode202.Text = "Life";
-            treeNode203.Name = "ノード3";
-            treeNode203.Text = "Learn";
-            treeNode204.Name = "ノード4";
-            treeNode204.Text = "Play";
-            treeNode205.Name = "ノード0";
-            treeNode205.Text = "Total";
+            treeNode61.Name = "ノード1";
+            treeNode61.Text = "Work";
+            treeNode62.Name = "ノード2";
+            treeNode62.Text = "Life";
+            treeNode63.Name = "ノード3";
+            treeNode63.Text = "Learn";
+            treeNode64.Name = "ノード4";
+            treeNode64.Text = "Play";
+            treeNode65.Name = "ノード0";
+            treeNode65.Text = "Total";
             this.treeViewFantasy.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode205});
+            treeNode65});
             this.treeViewFantasy.Size = new System.Drawing.Size(465, 1250);
             this.treeViewFantasy.TabIndex = 155;
             this.treeViewFantasy.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeViewFantasy_AfterSelect);
@@ -1618,7 +1619,7 @@
             this.tabPage4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tabPage4.Name = "tabPage4";
             this.tabPage4.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.tabPage4.Size = new System.Drawing.Size(2592, 1300);
+            this.tabPage4.Size = new System.Drawing.Size(2592, 1375);
             this.tabPage4.TabIndex = 1;
             this.tabPage4.Text = "Person";
             this.tabPage4.UseVisualStyleBackColor = true;
@@ -1855,18 +1856,18 @@
             this.treeViewPerson.Location = new System.Drawing.Point(7, 28);
             this.treeViewPerson.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.treeViewPerson.Name = "treeViewPerson";
-            treeNode206.Name = "ノード1";
-            treeNode206.Text = "Work";
-            treeNode207.Name = "ノード2";
-            treeNode207.Text = "Life";
-            treeNode208.Name = "ノード3";
-            treeNode208.Text = "Learn";
-            treeNode209.Name = "ノード4";
-            treeNode209.Text = "Play";
-            treeNode210.Name = "ノード0";
-            treeNode210.Text = "Total";
+            treeNode66.Name = "ノード1";
+            treeNode66.Text = "Work";
+            treeNode67.Name = "ノード2";
+            treeNode67.Text = "Life";
+            treeNode68.Name = "ノード3";
+            treeNode68.Text = "Learn";
+            treeNode69.Name = "ノード4";
+            treeNode69.Text = "Play";
+            treeNode70.Name = "ノード0";
+            treeNode70.Text = "Total";
             this.treeViewPerson.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode210});
+            treeNode70});
             this.treeViewPerson.Size = new System.Drawing.Size(465, 1008);
             this.treeViewPerson.TabIndex = 3;
             this.treeViewPerson.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeViewPerson_AfterSelect);
@@ -1887,7 +1888,7 @@
             this.tabPage5.Location = new System.Drawing.Point(4, 31);
             this.tabPage5.Name = "tabPage5";
             this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage5.Size = new System.Drawing.Size(2592, 1300);
+            this.tabPage5.Size = new System.Drawing.Size(2592, 1375);
             this.tabPage5.TabIndex = 4;
             this.tabPage5.Text = "Category";
             this.tabPage5.UseVisualStyleBackColor = true;
@@ -2084,11 +2085,22 @@
             this.buttonBackup.UseVisualStyleBackColor = true;
             this.buttonBackup.Click += new System.EventHandler(this.buttonBackup_Click);
             // 
+            // buttonImportToDB
+            // 
+            this.buttonImportToDB.Location = new System.Drawing.Point(1938, 23);
+            this.buttonImportToDB.Name = "buttonImportToDB";
+            this.buttonImportToDB.Size = new System.Drawing.Size(120, 40);
+            this.buttonImportToDB.TabIndex = 21;
+            this.buttonImportToDB.Text = "ImportToDB";
+            this.buttonImportToDB.UseVisualStyleBackColor = true;
+            this.buttonImportToDB.Click += new System.EventHandler(this.buttonImportToDB_Click);
+            // 
             // FormDiary
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(2698, 1474);
+            this.Controls.Add(this.buttonImportToDB);
             this.Controls.Add(this.buttonBackup);
             this.Controls.Add(this.buttonEventSave);
             this.Controls.Add(this.buttonUpdate);
@@ -2289,6 +2301,7 @@
         private System.Windows.Forms.Button buttonMarkE;
         private System.Windows.Forms.Button buttonMarkP;
         private System.Windows.Forms.Button buttonMarkC;
+        private System.Windows.Forms.Button buttonImportToDB;
     }
 }
 
